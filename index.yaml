@@ -3,12 +3,12 @@ entries:
   php:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-23T13:34:43.768261046+03:00"
+    created: "2023-09-03T18:19:22.700016038+03:00"
     description: A Helm chart for Kubernetes
-    digest: 68b0ad10859ca7a650786aa10cdc526bf8bb2ac2f555c13449a7d119c3903e9c
+    digest: 85b366eaf84369669b3031ae53a0ce04ba9c01b10b13ac66754dbbd7a0435822
     name: php
     type: application
     urls:
     - docs/php-0.1.0.tgz
     version: 0.1.0
-generated: "2022-09-23T13:34:43.767562313+03:00"
+generated: "2023-09-03T18:19:22.699052822+03:00"
